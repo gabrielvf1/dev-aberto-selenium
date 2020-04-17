@@ -1,6 +1,6 @@
 # dev-aberto-selenium - Repositorio para desenvolver testes com o selenium
 
-Como Rodar:
+Como Rodar os Testes do Selenium:
 
 - va para a pasta Servidor/src.
 - Agora abra o terminal e rode sqlite3 quiz.db dentro do sqlite3 use .read quiz.sql.
